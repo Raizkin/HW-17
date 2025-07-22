@@ -20,7 +20,7 @@ console.log(imgEl);
 const linkEl = document.querySelector(".third-link");
 const imgRef = document.querySelector(".third-img");
 linkEl.href =
-  "https://images.pexels.com/photos/1054655/pexels-photo-1054655.jpeg?cs=srgb&dl=pexels-hsapir-1054655.jpg&fm=jpg";
+"https://images.pexels.com/photos/1054655/pexels-photo-1054655.jpeg?cs=srgb&dl=pexels-hsapir-1054655.jpg&fm=jpg";
 imgRef.alt = "tree";
 console.log(linkEl);
 console.log(imgRef);
